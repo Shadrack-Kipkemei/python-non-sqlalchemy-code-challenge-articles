@@ -26,9 +26,7 @@ Python 3.x
 # Installation
 To use this code, simply clone or download the repository and run it with Python.
 
-git clone https://github.com/your-username/magazine-article-management.git
-cd magazine-article-management
-python3 main.py
+git clone git@github.com:Shadrack-Kipkemei/python-non-sqlalchemy-code-challenge-articles.git
 
 
 ## Class Details
